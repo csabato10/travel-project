@@ -7,14 +7,24 @@
     <body>
         <h1>What is your budget?</h1>
         <form method="post">
-            <label for="budget">Pick the dollar sign value based on the amount of money you want to spend on this trip::</label>
+            <label for="budget">Pick the dollar sign value based on the amount of money you want to spend on this trip?</label>
             <select name="budget">
                 <option value="$">$</option>
                 <option value="$$">$$</option>
                 <option value="$$$">$$$</option>
             </select>
             <br />
+            <p></p>
+
+            <label for="location">What type of location do you want to visit?</label>
+            <select name="location">
+                <option value="beach">beach</option>
+                <option value="city">city</option>
+                <option value="wilderness">wilderness</option> 
+            <p></p>
             <input type="submit" value="Submit"> 
+            </select>
+            <br />
         </form>  
     </body>
 </html>
