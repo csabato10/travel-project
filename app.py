@@ -8,5 +8,9 @@ user_number: int = 0
 def index():
     return render_template('index.html')
 
+@app.route('/take_off', methods=["GET", "POST"])
+def take_off():
+    return render_template("take_off.html")
+
 if __name__ == '__main__':
     app.run(debug=True)
