@@ -10,7 +10,7 @@ def budget_to_location(budget: str, location: str) -> str:
         if location == "city":
             return "new_york"
         elif location == "wilderness":
-            return "yoemite"
+            return "yosemite"
         else:
             return "miami"
     else:
