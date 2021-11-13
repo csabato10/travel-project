@@ -17,3 +17,14 @@ blockquote{
   padding-bottom: 1em;
   box-shadow: 1px 1px 3px 0.1px #8584849d;
 }
+
+h2 {
+  color: #6ca7ff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 1;
+  padding: 1em, 1em, 1em, 1em;
+}
