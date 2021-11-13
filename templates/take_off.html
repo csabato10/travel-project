@@ -3,10 +3,19 @@
     <head>
         <meta charset="UTF-8">
         <title>Budget</title>
+        <link rel='stylesheet' href='/static/styles.css' />
     </head> 
     <body>
         <h1>What is your budget?</h1>
         <form method="post">
+            <blockquote>
+                <p> Location is everything. Well, everything except budget, right? When most people think of a getaway, they imagine sitting on the beach coconut in hand, sun boiling their skin. 
+                    Yet, that is not the only place you can go to relax (though it is certaintly one of them). Some people may prefer a more ecclectic mountain escape, or even a day roaming around the city.
+                    Going to museams and exploring the attractions of larger cities is nothing if not adventurous.
+                </p>
+                <p> When selecting from this list, choose your preference in location. Would you rather be in the thick of the wilderness? Exploring a city? Or enjoying that coconut?
+                </p>
+            </blockquote>
             <label for="budget">Pick the dollar sign value based on the amount of money you want to spend on this trip?</label>
             <select name="budget">
                 <option value="$">$</option>
@@ -15,16 +24,25 @@
             </select>
             <br />
             <p></p>
-
+            <blockquote>
+                <p>Budget planning. It can be very tricky, but it is also important to splurge on yourself sometimes. When making your selections, don't be afraid to go a little more expensive than you originally
+                    planned. You never know what might end up being cheaper. Also, these are not exact models of how much money you would spend. Rather, this will tell you just about how much you can expect
+                    to pay for travel to each of the suggested locations.
+                </p>
+                <p>The options below range from $ to $$$. The more dollar signs, the more expensive you can expect the transportation and other costs to be. The default option will always select the cheapest alternative. 
+                </p>
+            </blockquote>
             <label for="location">What type of location do you want to visit?</label>
             <select name="location">
                 <option value="beach">beach</option>
                 <option value="city">city</option>
                 <option value="wilderness">wilderness</option> 
             <p></p>
+            <br />
             <input type="submit" value="Submit"> 
             </select>
             <br />
         </form>  
     </body>
 </html>
+

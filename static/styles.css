@@ -1,6 +1,6 @@
 p {
     color: #000000;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif
   }
 
 h1 {
@@ -8,3 +8,12 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
+blockquote{
+  margin: 1;
+  background-color: #6ca7ff;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  box-shadow: 1px 1px 3px 0.1px #8584849d;
+}
