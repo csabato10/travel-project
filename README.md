@@ -1,6 +1,6 @@
 # Ballin on a Budget
  
-Our travel website (Ballin on a Budget) gives UNC students the perfect place to travel based on their budget. We understand college students are broke, but adventurous. So, we want to help them find the best spring or winter break spot that won't break their bank account. Although, if like spending money we have options for that too!
+Our travel website (Ballin on a Budget) gives UNC students the perfect place to travel based on their budget. We understand college students are broke, but adventurous. So, we want to help them find the best spring or winter break spot that won't break their bank account. Although, if the user likes spending money we have options for that too!
 
 The first page introduces students to our website and the purpose of it.
 
