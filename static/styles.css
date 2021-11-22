@@ -1,3 +1,5 @@
+body {background-color: rgb(181, 217, 255);}
+
 p {
     color: #000000;
     font-family:Georgia, 'Times New Roman', Times, serif
@@ -6,6 +8,8 @@ p {
 h1 {
     color: #6ca7ff;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    outline-color: rgb(73, 136, 255);
   }
 
 blockquote{
@@ -16,4 +20,20 @@ blockquote{
   padding-top: 1em;
   padding-bottom: 1em;
   box-shadow: 1px 1px 3px 0.1px #8584849d;
+}
+
+h2 {
+  color: #6ca7ff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+  text-decoration: #8584849d;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
