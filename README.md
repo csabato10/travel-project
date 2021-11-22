@@ -10,7 +10,7 @@ Once they choose these options, the website will give them their perfect destina
 
 Users could also choose their location without taking the quiz. On the homepage there is a list of location types that users can click on. Each link will take the user to a page of three destination options based on the location type selected. The user can then click on the image or name of the place they would like to visit and they will be taken to the page dedicated to the destination they selected.
 
-Our teams consists of us, Chiara Sabato & Norah Binny.Chiara created the main frame of the website, focused on the styling of the website, connected each of the pages, and created the opening pages. Norah worked on creating pages for each place and gathering information on them. As a team we both came up with the idea of our website, reseached APIs, embedded images, and worked on changing colors of our text.
+Our teams consists of us, Chiara Sabato & Norah Binny. Chiara created the main frame of the website, focused on the styling of the website, connected each of the pages, and created the opening pages. Norah worked on creating pages for each place and gathering information on them. As a team we both came up with the idea of our website, reseached APIs, embedded images, and worked on changing colors of our text.
 
 We used 110 programming concepts such as creating helper functions and importing them. We used helper functions to take in user data and provide them with data. We also used functions in the app.py file to route to different pages of our website when the user clicked on specific links. 
 
