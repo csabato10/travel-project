@@ -6,7 +6,7 @@ p {
   }
 
 h1 {
-    color: #6ca7ff;
+    color: #1f4c91;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     outline-color: rgb(73, 136, 255);
@@ -23,7 +23,17 @@ blockquote{
 }
 
 h2 {
-  color: #6ca7ff;
+  color: #3877d4;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+  color: #6197e7;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4 {
+  color: #79aeff;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
